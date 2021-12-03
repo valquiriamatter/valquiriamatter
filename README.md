@@ -12,7 +12,7 @@ Movida a desafios ⭐ e apaixonada ❤️ por Programação Java ☕
 - 🎯 Meus projetos no momento estão relacionados à empresa a qual estou trabalhando atualmente.
 
 ## Cursos que já fiz: 
-Hoje o meu foco é em cursos Java para Desenvolvimento Backend, aqui você consegue ver alguns deles.
+Hoje o meu foco é em cursos Java para Desenvolvimento Backend, [aqui](https://github.com/valquiriamatter/certificados) aqui você consegue ver alguns deles.
 
 ## Outras informações sobre mim:
 - 🌎 Eu sou do Brasil, do estado do Paraná.
