@@ -10,7 +10,7 @@ Moved at challenges ⭐ and in love ❤️ for Java Programming. ☕
 ### My Courses: 
 Today my goal is courses to develop in Java, [here](https://github.com/valquiriamatter/certificados) you can see some of them.    
 
-### Others information about me:
+### More information about me:
 - 🌎 I'm from Brazil, state of Parana.
 - 💻 I'm graduated in Software Development.
 - ⌨️ I'm postgraduate in Development of Aplications Multiplatforms.
