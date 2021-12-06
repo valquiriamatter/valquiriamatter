@@ -3,14 +3,14 @@
 ### Nice to meet you 
 Moved at challenges ⭐ and in love ❤️ for Java Programming. ☕ 
 
-### Sobre tecnologia:
+### About Technology:
 - 📚 I'm studying to became a Backend Developer in Java.
 - 🎯 My projects, at the moment, are about my work.
 
-### Cursos que já fiz: 
+### My Courses: 
 Today my goal is courses to develop in Java, [here](https://github.com/valquiriamatter/certificados) you can see some of them.    
 
-### Outras informações sobre mim:
+### Others information about me:
 - 🌎 I'm from Brazil, state of Parana.
 - 💻 I'm graduated in Software Development.
 - ⌨️ I'm postgraduate in Development of Aplications Multiplatforms.
